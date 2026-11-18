@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AB44C4BC-988F-44FA-B451-D4AD4F57A520}" SchemaVersion="133" RootDocumentID="{10C25F71-78E8-44C9-ADBA-649563F78B55}" ParentDocumentID="{10C25F71-78E8-44C9-ADBA-649563F78B55}">
+	<Containers>
+		<WorkUnit Name="SFX" ID="{AB44C4BC-988F-44FA-B451-D4AD4F57A520}" OwnerID="{10C25F71-78E8-44C9-ADBA-649563F78B55}" PersistMode="Nested"/>
+	</Containers>
+</WwiseDocument>
