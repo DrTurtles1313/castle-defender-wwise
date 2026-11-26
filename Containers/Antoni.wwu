@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}" SchemaVersion="133">
+	<Containers>
+		<WorkUnit Name="Antoni" ID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="sfx" ID="{C460195E-E06A-4A86-AA68-959F8F0FA9A1}" ShortID="579722271">
+					<ChildrenList>
+						<RandomSequenceContainer Name="arrow_hit" ID="{0A20AEDF-DBC3-4E70-8B45-BE37501642C8}" ShortID="310618687">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="sfx_arrow_hit_1" ID="{A5BDD226-043B-446F-8400-55BC2F942CA7}" ShortID="987827044">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_arrow_hit_1" ID="{E214DCD0-CFFD-44F2-AE05-B2C502706365}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\arrow_hit\sfx_arrow_hit_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="823552033"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_arrow_hit_1" ID="{E214DCD0-CFFD-44F2-AE05-B2C502706365}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_arrow_hit_2" ID="{E8DFF0F4-4434-4647-8254-22A0DD7ED4E1}" ShortID="508038326">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_arrow_hit_2" ID="{8649AD14-4107-42C7-A9F3-0CF41E4DF0E4}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\arrow_hit\sfx_arrow_hit_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="662869060"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_arrow_hit_2" ID="{8649AD14-4107-42C7-A9F3-0CF41E4DF0E4}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_arrow_hit_3" ID="{B2160F14-DB7D-4249-A7CD-559F93D3A3AD}" ShortID="851465383">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_arrow_hit_3" ID="{B72F19F6-E8CA-4A55-8B1A-AF2B50CB889A}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\arrow_hit\sfx_arrow_hit_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="96805320"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_arrow_hit_3" ID="{B72F19F6-E8CA-4A55-8B1A-AF2B50CB889A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_arrow_hit_4" ID="{A35C37EF-90E2-45B9-B852-653E2D777160}" ShortID="555088184">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_arrow_hit_4" ID="{427B5890-6CCE-4D8A-9996-EE2897775526}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\arrow_hit\sfx_arrow_hit_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="808419689"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_arrow_hit_4" ID="{427B5890-6CCE-4D8A-9996-EE2897775526}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="bow_draw" ID="{53297896-9598-401E-B5E9-330CCF254BA7}" ShortID="854500300">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="sfx_bow_draw_1" ID="{756277DA-D9A3-4630-9FEF-B556ED8AA357}" ShortID="1006229163">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_draw_1" ID="{997969CD-2C02-4699-8C5E-C36E67DC84D8}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_draw\sfx_bow_draw_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1052798256"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_draw_1" ID="{997969CD-2C02-4699-8C5E-C36E67DC84D8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_draw_2" ID="{6C168659-C914-4306-A4BC-CF40CDD716C0}" ShortID="857409879">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_draw_2" ID="{7D6C710A-397A-4E72-B3FD-45A41367231C}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_draw\sfx_bow_draw_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="378069495"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_draw_2" ID="{7D6C710A-397A-4E72-B3FD-45A41367231C}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_draw_3" ID="{DF067BDD-D1BE-464E-9BE7-2ED1A1B18B50}" ShortID="88278839">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_draw_3" ID="{9A1626BB-A429-4239-8D0D-0E6086207A0B}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_draw\sfx_bow_draw_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="542980352"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_draw_3" ID="{9A1626BB-A429-4239-8D0D-0E6086207A0B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_draw_4" ID="{394EF904-6811-4BA8-8D3C-B19F2CDC92F8}" ShortID="577039304">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_draw_4" ID="{29248A78-1B0C-418A-9C7D-BAA4CB6B8D85}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_draw\sfx_bow_draw_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="523151513"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_draw_4" ID="{29248A78-1B0C-418A-9C7D-BAA4CB6B8D85}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="bow_drop_ground" ID="{9C3A0A90-242A-4AAF-8BD0-401EFB070598}" ShortID="242499969">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="sfx_bow_drop_ground_1" ID="{F3175BEC-10CF-4BED-97CD-2A29D4A63B9D}" ShortID="813252715">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_ground_1" ID="{C2466801-E460-4408-B0C4-7B6EA79C305B}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_ground\sfx_bow_drop_ground_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="469201414"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_ground_1" ID="{C2466801-E460-4408-B0C4-7B6EA79C305B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_drop_ground_2" ID="{6586813A-41A2-4720-B89A-0679B918369C}" ShortID="32930585">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_ground_2" ID="{492BC7C2-10C8-46B6-88A8-665DE8DA58E6}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_ground\sfx_bow_drop_ground_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="171686670"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_ground_2" ID="{492BC7C2-10C8-46B6-88A8-665DE8DA58E6}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_drop_ground_3" ID="{40C11516-BAF5-456B-B2E0-6F4F674E9ACF}" ShortID="488260378">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_ground_3" ID="{12685467-E069-4BA0-95DF-F9C49DC7C3EE}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_ground\sfx_bow_drop_ground_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="801871133"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_ground_3" ID="{12685467-E069-4BA0-95DF-F9C49DC7C3EE}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="bow_drop_inventory" ID="{CD17907D-17FD-4171-83EC-89B2C72828EE}" ShortID="620480091">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="sfx_bow_drop_inventory_1" ID="{FC3DAE52-290F-4A75-81FC-07EB4D6DA086}" ShortID="455026935">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_inventory_1" ID="{6851E17F-736E-4034-9076-B8E820173CB7}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_inventory\sfx_bow_drop_inventory_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="959402953"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_inventory_1" ID="{6851E17F-736E-4034-9076-B8E820173CB7}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_drop_inventory_16" ID="{E00ED24B-5A2C-4D72-A234-783C46BFB6BA}" ShortID="315988496">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_inventory_16" ID="{4D6CBA15-0838-44E4-BA56-69A110FE6174}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_inventory\sfx_bow_drop_inventory_16.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="22541090"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_inventory_16" ID="{4D6CBA15-0838-44E4-BA56-69A110FE6174}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_drop_inventory_2" ID="{3FC3405A-DF2F-4CD8-BE74-3A28DA1C569D}" ShortID="688376164">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_inventory_2" ID="{E9358C8D-575D-4DAC-94C2-14DCE7ADCDBD}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_inventory\sfx_bow_drop_inventory_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="754403043"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_inventory_2" ID="{E9358C8D-575D-4DAC-94C2-14DCE7ADCDBD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_drop_inventory_3" ID="{87DA30BA-BD33-46F7-A9A2-675BC478CA45}" ShortID="675586547">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_drop_inventory_3" ID="{CED5B90F-5417-4B36-9E94-397EB7722FBC}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_drop_inventory\sfx_bow_drop_inventory_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="464525046"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_drop_inventory_3" ID="{CED5B90F-5417-4B36-9E94-397EB7722FBC}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="bow_loose" ID="{44BE92AF-9F5A-4964-B366-196EE826AACE}" ShortID="925086558">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="sfx_bow_loose_1" ID="{1C33E3EC-DA5F-4CED-9922-18467496CFA9}" ShortID="538088420">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_loose_1" ID="{C2084DFF-12CE-474D-8EF5-1549430DC126}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_loose\sfx_bow_loose_1.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1346167"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_loose_1" ID="{C2084DFF-12CE-474D-8EF5-1549430DC126}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_loose_2" ID="{7D484088-F2B3-4824-BC63-BF6AE7E818D2}" ShortID="41427140">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_loose_2" ID="{2558395D-570A-4145-987D-9063BAD04AE8}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_loose\sfx_bow_loose_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="137311931"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_loose_2" ID="{2558395D-570A-4145-987D-9063BAD04AE8}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_loose_3" ID="{CC45952A-D1D7-4A5B-9209-F62B3CAA06C8}" ShortID="444821852">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_loose_3" ID="{A61924D6-3F67-4544-81B9-FCB0101B43AD}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_loose\sfx_bow_loose_3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="170869186"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_loose_3" ID="{A61924D6-3F67-4544-81B9-FCB0101B43AD}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="sfx_bow_loose_4" ID="{6289ED67-1663-48B0-8FE4-DD0BBF53B23E}" ShortID="543060713">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2BC20B07-1902-4A56-8C44-FEBA3FC1AEE4}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{03FB29BC-10E5-46A1-8E17-6EB6C379B5A3}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="sfx_bow_loose_4" ID="{5C3A2431-5A85-4122-BCC2-7E6FBB3E8D9A}">
+											<Language>SFX</Language>
+											<AudioFile>sfx\bow_loose\sfx_bow_loose_4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="548081454"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="sfx_bow_loose_4" ID="{5C3A2431-5A85-4122-BCC2-7E6FBB3E8D9A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Containers>
+</WwiseDocument>

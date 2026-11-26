@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{40BE7DB6-CDA8-4668-A423-2FDFE15DF682}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Antoni" ID="{40BE7DB6-CDA8-4668-A423-2FDFE15DF682}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="sfx" ID="{A8B24F85-D8A9-47B1-8C96-B928477BA3E9}" ShortID="165098786">
+					<ChildrenList>
+						<Event Name="Play_bow_drop_inventory" ID="{1D4BEAE2-B397-460B-9C89-53209025034F}">
+							<ChildrenList>
+								<Action Name="" ID="{7A83A005-929F-402B-85A4-825B695E36A6}" ShortID="68916208">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="bow_drop_inventory" ID="{CD17907D-17FD-4171-83EC-89B2C72828EE}" WorkUnitID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bow_drop_ground" ID="{7084FE13-EFF6-49C5-BF9D-E1A15D9FBDD8}">
+							<ChildrenList>
+								<Action Name="" ID="{FB1A8DC7-59F5-4985-8961-FE577971BFCC}" ShortID="867846605">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="bow_drop_ground" ID="{9C3A0A90-242A-4AAF-8BD0-401EFB070598}" WorkUnitID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bow_draw" ID="{7025F573-A17C-4183-8D93-4B4C8C119F09}">
+							<ChildrenList>
+								<Action Name="" ID="{921ED800-B174-42D7-AF19-AF68F4D47EB9}" ShortID="772124531">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="bow_draw" ID="{53297896-9598-401E-B5E9-330CCF254BA7}" WorkUnitID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_arrow_hit" ID="{26116CA3-FB19-432E-8B56-F337E53D8D73}">
+							<ChildrenList>
+								<Action Name="" ID="{327A9CB6-A4CA-4641-AA50-2A3BB948BE3B}" ShortID="482866627">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="arrow_hit" ID="{0A20AEDF-DBC3-4E70-8B45-BE37501642C8}" WorkUnitID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_bow_loose" ID="{38752C4E-0173-408E-AFBD-833A8167156F}">
+							<ChildrenList>
+								<Action Name="" ID="{7141CCF6-DAC2-4481-A5FC-BC75AAD06129}" ShortID="162727313">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="bow_loose" ID="{44BE92AF-9F5A-4964-B366-196EE826AACE}" WorkUnitID="{1D96E73A-4FD5-432C-9B0F-F5B372C15463}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
